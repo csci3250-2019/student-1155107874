@@ -25,7 +25,12 @@ What I have learnt is following:
 ## Plan for this semester
 But now, I have to complete some tasks in CSCI3250+3251 first:
 
-[x] github challenges
-[ ] prepare for quiz
-[ ] indivisual report
+- [x] github challenges
+- [ ] prepare for quiz
+- [ ] indivisual report
 
+## command for cmd
+
+![Alt text]( http://github.com/csci3250-2019/student-1155107874/add.png "add")
+
+![Alt text]( http://github.com/csci3250-2019/student-1155107874/push.png "push")
