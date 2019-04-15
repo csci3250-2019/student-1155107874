@@ -31,6 +31,8 @@ But now, I have to complete some tasks in CSCI3250+3251 first:
 
 ## command for cmd
 
+### command for add readme.md
 ![add]( add.png "add")
 
-![push]( http://github.com/csci3250-2019/student-1155107874/blob/master/push.png "push")
+### command for push readme.md
+![push]( push.png "push")
