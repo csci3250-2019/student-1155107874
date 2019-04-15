@@ -31,6 +31,6 @@ But now, I have to complete some tasks in CSCI3250+3251 first:
 
 ## command for cmd
 
-![add]( http://github.com/csci3250-2019/student-1155107874/add.png "add")
+![add]( http://github.com/csci3250-2019/student-1155107874/blob/master/add.png "add")
 
-![push]( http://github.com/csci3250-2019/student-1155107874/push.png "push")
+![push]( http://github.com/csci3250-2019/student-1155107874/blob/master/push.png "push")
