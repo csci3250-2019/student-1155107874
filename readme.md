@@ -6,7 +6,7 @@ Summer is coming! I am going to do internship in the Efinix Ltd. HK as a full ti
 Programming languages are the one of the most vital skills for CS students:
 What I have learnt is following:
 
-| Programming Languages(central) | Level |
+| Programming Languages(justify) | Level |
 |-----------------------| ------------- |
 | C                     | Proficient    |
 | Python                | Proficient    |
